@@ -1,0 +1,25 @@
+.container{
+    
+    width: 600px;
+    height: 400px;
+    margin: 50px auto;
+    background: black;
+    background-image: url(img/ripple.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 50px 50px;
+    float:left;
+    overflow: hidden;
+}
+
+
+
+.container img{
+    
+    border: 0;
+    width:600px;
+    height:400px;
+    display:none;
+    
+    
+}
